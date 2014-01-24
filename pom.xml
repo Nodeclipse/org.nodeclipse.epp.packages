@@ -137,6 +137,15 @@
         <module>packages/org.eclipse.epp.package.testing.product</module>
       </modules>
     </profile>
+	<!-- added -->
+    <profile>
+      <id>enide.package.standard</id>
+      <modules>
+        <module>packages/org.nodeclipse.enide.package.standard</module>
+        <module>packages/org.nodeclipse.enide.package.standard.feature</module>
+        <module>packages/org.nodeclipse.enide.package.standard.product</module>
+      </modules>
+    </profile>
   </profiles>
 
 </project>
