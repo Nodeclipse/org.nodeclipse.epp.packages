@@ -60,6 +60,17 @@
       <layout>p2</layout>
       <url>${eclipse.simultaneous.release.repository}</url>
     </repository>
+	<!-- Nodeclipse release repository 
+	<repository>
+		<id>nodeclipse-release</id>
+		<layout>p2</layout>
+		<url>http://dl.bintray.com/nodeclipse/nodeclipse/0.11/</url>
+	</repository> -->
+	<repository>
+		<id>nodeclipse-updates</id>
+		<layout>p2</layout>
+		<url>http://www.nodeclipse.org/updates/</url>
+	</repository>
   </repositories>
 
   <build>
