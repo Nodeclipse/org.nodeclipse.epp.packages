@@ -23,11 +23,11 @@
          </property>
          <property
                name="startupForegroundColor"
-               value="FFFFFF">
+               value="9c9696">
          </property>
          <property
                name="startupMessageRect"
-               value="7,225,320,20">
+               value="7,265,320,20">
          </property>
          <property
                name="startupProgressRect"
@@ -71,7 +71,7 @@
          </property>
          <property
                name="applicationCSSResources" 
-               value="platform:/plugin/org.eclipse.platform/images/"> 
+               value="platform:/plugin/org.eclipse.ui.themes/images/"> 
          </property>
          <!-- Build ID in startup splash - only for nightlies and milestones, not for releases -->
          <property
